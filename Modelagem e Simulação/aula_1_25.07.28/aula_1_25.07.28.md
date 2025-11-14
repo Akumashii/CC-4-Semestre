@@ -3,9 +3,6 @@
 ## professor: André Flores dos Santos
 
 ---
-apresentação do plano
-
-![[Plano Ensino Modelagem e Simulação.pdf]]
 
 Avaliação:
 
@@ -23,12 +20,7 @@ Avaliação:
 > 	Produto de Aprendizagem 3 (Avaliação), com peso = 5,0.
 > 	Trabalho Final com peso = 5,0
 
-[[Plano Ensino Modelagem e Simulação.pdf#page=2&selection=19,0,34,29|Plano Ensino, página 2]]
-
-
 # Unidade 1
-
-https://github.com/Akumashii/CC-4-Semestre/blob/main/Modelagem%20e%20Simulação/aula_1_25.07.28/Atividade_Aula01_Modelagem_e_Simulacao.pdf
 
 Modelagem, definição: 
 - Conjunto de técnicas que traduzem fenômenos reais em representações matemáticas que podem ser simuladas em computadores
