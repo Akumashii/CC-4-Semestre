@@ -1,6 +1,6 @@
 # Introdução
 
-## professor: André Flores dos Santos
+## professor: André Flores dos Santos 
 
 ---
 
@@ -141,7 +141,7 @@ Aplicações Específicas:
 
 # Atividade
 
-![[Atividade_Aula01_Modelagem_e_Simulacao.pdf]]
+[Aula 1 – Introdução](Modelagem e Simulação/aula_1_25.07.28/Aula01_Introducao.pdf)
 
 grupo: lulu, vava, frafra
 
