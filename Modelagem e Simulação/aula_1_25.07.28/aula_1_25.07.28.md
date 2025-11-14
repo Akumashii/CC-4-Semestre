@@ -141,7 +141,7 @@ Aplicações Específicas:
 
 # Atividade
 
-[Aula 1 – Introdução](Modelagem e Simulação/aula_1_25.07.28/Aula01_Introducao.pdf)
+[Aula 1 – Introdução](Aula01_Introducao.pdf)
 
 grupo: lulu, vava, frafra
 
