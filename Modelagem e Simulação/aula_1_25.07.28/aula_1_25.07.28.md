@@ -22,16 +22,27 @@ Avaliação:
 
 # Unidade 1
 
-Modelagem, definição: 
+### Objetivo da Disciplina
+- Compreender Modelos
+	- entender conceitos fundamentais de construção de modelos computacionais para sistemas reais
+- Aplicar Simulações
+	- desenvolver projetos de simulação e analizar comportamento de sistemas complexos
+
+ 
+### Definição de Modelagem 
 - Conjunto de técnicas que traduzem fenômenos reais em representações matemáticas que podem ser simuladas em computadores
-- Representação matemática ou algorítma de um sistema real
+- Analogia do mapa: como um mapa não é o território real mas uma repesentação útil que nos ajuda a navegar
+- Modelo computacional: versão simplificada do sistema real que podemos estudar virtualmente 
 - Objetivo: Criar **representações** úteis para estudar sistemas complexos
-Simulação, definição:
-- 
 
-Modelagem e Simulação serve para segurança do software
+### Conceitos Fundamentais
+- Modelo:Representação matemática ou algorítma de um sistema real
+- Simulação: execução do modelo no computador para observar seu comportamento
+- Sistema: conjunto de elementos que interagem para alcançar um objetivo comum
+- Variáveis características mensuráveis do sistema que podem mudar
+- Parâmetros: valores que controlam o comportamento do modelo
 
-Tipo de Modelagem 
+### Tipos de Modelagem 
 - Determinística
 	- Sempre vai ser aquele resultado
 	- Não há incertezas
@@ -44,43 +55,54 @@ Tipo de Modelagem
 	- Interação: O que acontece no sistema depende das trocas e relações entre os agentes e o ambiente
 
 ## Processo de modelagem 
+
 ### Primeiras Etapas (1-4)
-Definição do Problema: 
-- Identificar o que queremos estudar e quais perguntas responder.
-Coleta e Análise de Dados:
-- Reunir informações sobre o sistema e identificar variáveis importantes.
-Formulação Matemática:
-- Traduzir o problema em equações e estabelecer simplificações
-Implementação Computacional:
-- Converter o modelo matemático em código executável
+- Definição do Problema: 
+	- Identificar o que queremos estudar e quais perguntas responder.
+- Coleta e Análise de Dados:
+	- Reunir informações sobre o sistema e identificar variáveis importantes.
+- Formulação Matemática:
+	- Traduzir o problema em equações e estabelecer simplificações
+- Implementação Computacional:
+	- Converter o modelo matemático em código executável
 ### Etapas Finais (5-7)
-Validação e Calibração:
-- Comparar resultados simulados com dados reais e ajustar parâmetros. 
-Análise de Resultados:
-- Interpretar resultados, gerar visualizações e extrair insights. 
-Refinamento e Otimização:
-- Melhorar o modelo baseado nos resultado se explorar cenários.
+- Validação e Calibração:
+	- Comparar resultados simulados com dados reais e ajustar parâmetros. 
+- Análise de Resultados:
+	- Interpretar resultados, gerar visualizações e extrair insights. 
+- Refinamento e Otimização:
+	- Melhorar o modelo baseado nos resultado se explorar cenários.
 
 ## Sistemas Contínuos
 mudanças suaves e contínuas
-Características: 
-- Variáveis mudam de forma suave (números decimais) 
-- Qualquer valor dentro de um intervalo 
-- Modelados com equações diferenciais 
-- Tempo como variável contínua
+
+- Características: 
+	- Variáveis mudam de forma suave (números decimais) 
+	- Qualquer valor dentro de um intervalo 
+	- Modelados com equações diferenciais 
+	- Tempo como variável contínua
+
+- Matemática
+	- equações diferenciais são equaçõe que relacionam uma função (e.g. posição, temperatura, velocidade, ...) com suas derivadas (ou seja, com a taxa de variação dessa função em relação ao tempo ou a outra variável
+ - em resumo, elas descrevem como uma quantidade muda continuamente. Isso significa que elas podem assumir qualquer valor dentro de um intervalo, incluindo casas decimais, frações e valores irracionais
+ - são ideais para representar sistemas onde as variáveis mudam de forma suave e contínua, sem saltos
+
 ## Sistemas Discretos 
 valores específicos e saltos
-Características 
-- Valores específicos (inteiros) 
-- Mudanças em instantes pontuais 
-	- ocorre em momentos específicos, chamado de Eventos
-	- Entre eventos o sistema permanece no mesmo estado
-	- 
-- Equações de diferenças 
-	- Descreve como o estado do sistema muda de um instante para o outro
-- Tempo em intervalos discretos
-	- não existe meio termo entre dois instantes
-	- tempo é contado em intervalos separados
+
+- Características 
+	- Valores específicos (inteiros) 
+	- Mudanças em instantes pontuais 
+		- ocorre em momentos específicos, chamado de Eventos
+		- Entre eventos o sistema permanece no mesmo estado
+	- Equações de diferenças 
+		- Descreve como o estado do sistema muda de um instante para o outro
+	- Tempo em intervalos discretos
+		- não existe meio termo entre dois instantes
+		- tempo é contado em intervalos separados
+
+ - Matemática
+ 	- As variáveis de um sistema discreto só podem assumir certos valores, geralmente inteiros ou contáveis. e.g. quantidade de carros num estacionamento
 
 ## Importância, porquê?
 
