@@ -244,8 +244,8 @@ aqui segue o recapítulo das fórmulas
 ## Exemplo M/M/1
 
 
-![Exemplo 1](Exemplo1 M.M.1.png)
-![Resposta](Respota Exemplo1.png)
+![Exemplo 1](Exemplo1_MM1.png)
+![Resposta](Respota_Exemplo1.png)
 
 
 
