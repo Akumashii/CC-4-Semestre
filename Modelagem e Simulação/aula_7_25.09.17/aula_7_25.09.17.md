@@ -244,8 +244,8 @@ aqui segue o recapítulo das fórmulas
 ## Exemplo M/M/1
 
 
-
-[WIN_20250701_13_01_48_Pro](https://github.com/user-attachments/assets/667651e0-bd11-483f-91e8-14c764e2af6e)
+![Exemplo 1](Exemplo1_M.M.1.png)
+![Resposta](Respota_Exemplo1.png)
 
 
 
