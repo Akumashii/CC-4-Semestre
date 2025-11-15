@@ -245,7 +245,7 @@ aqui segue o recapítulo das fórmulas
 
 
 
-![WIN_20250701_13_01_48_Pro](https://github.com/user-attachments/assets/667651e0-bd11-483f-91e8-14c764e2af6e)
+[WIN_20250701_13_01_48_Pro](https://github.com/user-attachments/assets/667651e0-bd11-483f-91e8-14c764e2af6e)
 
 
 
