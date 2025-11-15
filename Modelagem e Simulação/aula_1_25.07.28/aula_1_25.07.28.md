@@ -143,6 +143,6 @@ Aplicações Específicas:
 
 # Atividade
 
-[Atividade](Atividade_Aula01_Modelagem_e_Simulacao.pdf)
+![Atividade](Atividade_Aula01_Modelagem_e_Simulacao.pdf)
 grupo: lulu, vava, frafra
 
