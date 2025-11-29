@@ -138,6 +138,9 @@ $ docker stop (id)
 $ docker run -it -d -p 8080:8080 hello-world:1.0
 //configurada a porta 
 
+---
+nao sei mais me perdi 
+
 
 
 
