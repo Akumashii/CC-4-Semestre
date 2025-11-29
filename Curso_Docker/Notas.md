@@ -101,19 +101,19 @@ RUN mvn install
 
 FROM openjdk:17-ea-slim
 COPY --from=build/app/target/${app-name-snapshot}.jar /app/app.jar
-# no java o $(app-name) é composto pelo ${artifactid)-${version}
-# ele concatena isso com traço ' - '
+#no java o $(app-name) é composto pelo ${artifactid)-${version}
+#ele concatena isso com traço ' - '
 
 WORKDIR /app
 EXPOSE 8080
-# vou utilizar a porta 8080 
+#vou utilizar a porta 8080 
 
 
-# devemos especificar que, a porta 8080 vai apontar -> para a porta 'x' docker
+#devemos especificar que, a porta 8080 vai apontar -> para a porta 'x' docker
 
 
 CMD["java,"-jar","app.ja"]
-# espeficicar os comando que vão ser rodados para funcionamento da aplicação
+#espeficicar os comando que vão ser rodados para funcionamento da aplicação
 
 ### Comandos
 
@@ -139,7 +139,7 @@ $ docker run -it -d -p 8080:8080 hello-world:1.0
 //configurada a porta 
 
 ---
-nao sei mais me perdi 
+# nao sei mais me perdi 
 
 
 
